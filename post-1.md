@@ -1,3 +1,6 @@
+---
+layout: layout.liquid
+---
 Captain's Log 
 Earth time: September 3, 3087
 System: LTT 2667 ~ Approx. 166.46 LY from Diaguandri 

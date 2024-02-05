@@ -1,3 +1,6 @@
+---
+layout: layout.liquid
+---
 Captain's Log 
 Earth time: October 25th, 3098
 System: CD-73 12 ~ Approx. 178.31 LY from Diaguandri 

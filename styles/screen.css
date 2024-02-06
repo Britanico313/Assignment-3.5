@@ -1,9 +1,10 @@
-body {
+body.container {
     font-family: Helvetica, sans-serif;
     color: #EAE8FF;
     background: #2D3142;
     padding: 0 40px;
     text-align: center;
+    display: table;
 }
 
 nav {
@@ -49,11 +50,3 @@ img.about {
     opacity: 0.5;
 }
 
-body.container {
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 20px;
-    background-color: rgba(255, 255, 255, 0.1);
-    border-radius: 20px;
-    text-align: left;
-}

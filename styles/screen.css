@@ -48,3 +48,8 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+body{
+    max-width: 800px;
+
+}
+

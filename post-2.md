@@ -1,7 +1,8 @@
 ---
 layout: layout.liquid
 ---
-Captain's Log 
+
+## Captain's Log 2
 
 Earth time: October 25th, 3098
 

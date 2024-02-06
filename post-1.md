@@ -1,7 +1,7 @@
 ---
 layout: layout.liquid
 ---
-Captain's Log 
+## Captain's Log 1
 
 Earth time: September 3, 3087
 

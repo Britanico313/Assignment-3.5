@@ -52,12 +52,7 @@ img.about {
 
 body.container *:not(h1):not(nav) {
  
-        max-width: 800px;
+        max-width: 750px;
         margin: 40px auto;
-        padding: 20px;
-       
         border-radius: 20px;
-        text-align: left;
-    
-    
 }

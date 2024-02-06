@@ -50,9 +50,7 @@ img.about {
     opacity: 0.5;
 }
 
-body.container *:not(h1):not(nav) {
- 
-        max-width: 750px;
-        margin: 40px auto;
-        border-radius: 20px;
+p {
+    display: table;
+    text-align: left;
 }

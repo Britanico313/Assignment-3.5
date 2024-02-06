@@ -50,3 +50,14 @@ img.about {
     opacity: 0.5;
 }
 
+body.container *:not(h1):not(nav) {
+ 
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 20px;
+       
+        border-radius: 20px;
+        text-align: left;
+    
+    
+}

@@ -15,7 +15,7 @@ nav {
 
 nav ul {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin: 0;
     padding: 0;
 }
@@ -48,8 +48,5 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
-body{
-    max-width: 800px;
 
-}
 
